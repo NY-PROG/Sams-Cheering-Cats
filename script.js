@@ -33,10 +33,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const MAIN_CAT_FIRE_IMAGE = 'cat-after.png';     
     
     // Left cat and right cat
-    const SIDECAT_LEFT_NORMAL_IMAGE = 'cat-normal-left.png';  //left normal cat
-    const SIDECAT_LEFT_WAVING_IMAGE = 'cat-waving-left.png';  // left waving cat
-    const SIDECAT_RIGHT_NORMAL_IMAGE = 'cat-normal.png'; // right normal cat
-    const SIDECAT_RIGHT_WAVING_IMAGE = 'cat-waving.png'; // right waving cat
+    const SIDECAT_LEFT_NORMAL_IMAGE = './cat-normal-left.png';  //left normal cat
+    const SIDECAT_LEFT_WAVING_IMAGE = './cat-waving-left.png';  // left waving cat
+    const SIDECAT_RIGHT_NORMAL_IMAGE = './cat-normal.png'; // right normal cat
+    const SIDECAT_RIGHT_WAVING_IMAGE = './cat-waving.png'; // right waving cat
 
 
     // 3. Click the main cat
