@@ -31,8 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const REPO_PREFIX = '/Sams-Cheering-Cats/';
     
     // Main cat
-    const MAIN_CAT_NORMAL_IMAGE = REPO_PREFIX +'cat-before.png'; 
-    const MAIN_CAT_FIRE_IMAGE = 'cat-after.png';     
+    const MAIN_CAT_NORMAL_IMAGE = REPO_PREFIX + 'cat-before.png'; 
+    const MAIN_CAT_FIRE_IMAGE = REPO_PREFIX + 'cat-after.png';     
     
     // Left cat and right cat
     const SIDECAT_LEFT_NORMAL_IMAGE = REPO_PREFIX +'cat-normal-left.png';  //left normal cat
